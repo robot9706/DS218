@@ -37,7 +37,7 @@ Some memory addresses are used by the Internal ROM:
 
 |Address|Description|
 |---|---|
-|0x98007078|Defines the CPU mode for the "g" Go command. If the 7. bit is set it runs as AArch64 (so 0x000080), otherwise AArch32 (0x00000000).|
+|0x98007078|Defines the CPU mode for the "g" Go command. If the 7. bit is set it runs as AArch64 (so 0x00000080), otherwise AArch32 (0x00000000).|
 |0x98007058|Contains the address where the download command puts the binary as well as where the "g" Go command will jump.|
 
 ## Other info
