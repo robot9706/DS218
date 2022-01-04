@@ -6,7 +6,7 @@ The ROM can be found in [internal_rom.bin](../dump/README.md).
 
 ## Built in terminal
 
-When the CPU is powered up a built in terminal can be accessed by sending CTRL+Q using the debug serial port. This halts the boot process and presents a "`d/q/r>`" terminal.
+When the CPU is powered up a built in terminal can be accessed by sending CTRL+Q using the debug serial port. This halts the boot process and presents a "`d/g/r>`" terminal.
 
 It supports the following commands:
 
@@ -22,7 +22,7 @@ It supports the following commands:
 Note: None of the commands require the 0x prefix.
 
 ```
-d/q/r>s
+d/g/r>s
 98007058
 01000000
 ```
