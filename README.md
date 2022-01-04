@@ -59,7 +59,7 @@ Pictures of the DS218 can be found in the "[pictures](/pictures/README.md)" fold
 This is the information I gathered while trying to fix the NAS:
 
 * [Flash layout](/info/flash.md)
-* [Bootprocess](/info/boot.md)
+* [Boot process](/info/boot.md)
 * [Internal ROM](/info/rom.md)
 * [HWInfo blob](/info/hwinfo.md)
 
