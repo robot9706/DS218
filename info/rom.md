@@ -45,3 +45,7 @@ Some memory addresses are used by the Internal ROM:
 * The SPI flash is mapped to `0x88100000`.
 
 * The FSBL is loaded to `0x10100000`.
+
+## Dumping the ROM
+
+The internal rom can be dumped using the built in terminal by reading every address from "0x00000000 - 0x08000000" which is the ROM area. The "`internal_rom.bin`" only contains (0x00000000 - 0x000125E7).
