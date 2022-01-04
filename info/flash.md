@@ -3,7 +3,7 @@
 The 8MB flash has 5 partitions:
 
 |FIS entry location|Name|Location in flash|Memory location|Size|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |0x007FF000|RedBoot|0x00000000|0x00000000|0x00100000|
 |0x007FF100|zImage|0x00100000|0x00100000|0x002F0000|
 |0x007FF200|rd.gz|0x003F0000|0x003F0000|0x003FF000|
