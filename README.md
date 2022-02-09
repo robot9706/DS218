@@ -33,6 +33,8 @@ C2
 
 Testing the RAM using the peek and set commands (using the InternalROM) it seems like random bytes in memory flip, or they remain 0x00.
 
+Update: After poking around in the 32bit memory space I replaced the two RAM chips connected to Channel0 of the DRAM controller. And the NAS lives again :)
+
 ## DS218 specs
 
 * CPU: RTD1296
