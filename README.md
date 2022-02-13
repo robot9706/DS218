@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repo was made to document information about the Synology DS218 NAS and **mainly** the RealTek RTD1296 ARM CPU after a failed attempt of trying to fix one.
+This repo was made to document information about the Synology DS218 NAS and **mainly** the RealTek RTD1296 ARM CPU after a successful attempt of trying to fix one.
 
 It is for educational purposes only.
 
