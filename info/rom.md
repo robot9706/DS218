@@ -29,7 +29,7 @@ d/g/r>s
 
 ## Loading HWInfo
 
-Before using almost and command it is advised to load the HWInfo file using the "`h`" command. This will ensure that most of the CPU modules are setup, mainly the DRAM controller. Without this step it is impossible to access RAM.
+Before using almost any command it is advised to load the HWInfo file using the "`h`" command. This will ensure that most of the CPU modules are setup, mainly the DRAM controller. Without this step it is impossible to access RAM.
 
 ## Magic memory addresses
 
